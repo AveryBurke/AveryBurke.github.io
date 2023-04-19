@@ -1,3 +1,3 @@
 # AveryBurke.github.io
 
-This is my webpage. Look on my it, ye mighty, and despair.
+This is my webpage. Look on it, ye mighty, and despair.
