@@ -7,6 +7,10 @@
 --indigo-dye: #0B3D64ff;
 }
 
+a{
+  color: var(--flame);
+}
+
 body {
     width:100vw;
     height:100vh;
@@ -26,7 +30,7 @@ body {
 }
 .content{
   height:100%;
-  text-align: center;
+  text-align: justify;
   width: 40%;
   margin: 0 auto;
 }
