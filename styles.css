@@ -1,3 +1,12 @@
+
+:root {
+--dun: #E8D2B1ff;
+--platinum: #EBEBE8ff;
+--flame: #E96838ff;
+--cambridge-blue: #6EA69Dff;
+--indigo-dye: #0B3D64ff;
+}
+
 body {
     width:100vw;
     height:100vh;
@@ -5,8 +14,8 @@ body {
     text-transform: lowercase;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-    background: #191919;
-    color: #f4f4ec;
+    background: var(--indigo-dye);
+    color: var(--dun);
 }
 .container{
     width:100%;
