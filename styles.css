@@ -9,11 +9,11 @@
 }
 
 a {
-  font-size: 3rem;
   color: var(--flame);
 }
 
 h1 {
+  font-size: 3rem;
   text-align: center;
 }
 
