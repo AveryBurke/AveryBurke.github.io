@@ -2,16 +2,17 @@
 :root {
 --dun: #E8D2B1ff;
 --platinum: #EBEBE8ff;
+--sandy-brown: #F1A771ff;
 --flame: #E96838ff;
 --cambridge-blue: #6EA69Dff;
 --indigo-dye: #0B3D64ff;
 }
 
-a{
+a {
   color: var(--flame);
 }
 
-h1{
+h1 {
   text-align: center;
 }
 
@@ -35,6 +36,8 @@ body {
 .content{
   height:100%;
   text-align: justify;
-  width: 40%;
+  width: 30.33%;
+  letter-spacing: .025rem;
+  line-height: 1.25rem;
   margin: 0 auto;
 }
