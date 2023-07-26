@@ -32,7 +32,8 @@ body {
     font-size: 3.05rem;
 }
 .title {
-  color:var(--platinum)
+  color:var(--platinum);
+  margin-bottom: 1.5rem;
 }
 .container{
     width:100%;
