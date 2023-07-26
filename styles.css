@@ -28,7 +28,7 @@ body {
     background: var(--indigo-dye);
     color: var(--dun);
     letter-spacing: -.025rem;
-    line-height: .5rem;
+    line-height: .15rem;
     font-size: 3.05rem;
 }
 .title {
