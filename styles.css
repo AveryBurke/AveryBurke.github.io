@@ -10,11 +10,12 @@
 
 a {
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 3rem;
   transition: linear 150ms;
+  color:var(--dun)
 }
 a:hover {
-  color: var(--flame) ;
+  color: var(--flame);
 }
 
 h1 {
