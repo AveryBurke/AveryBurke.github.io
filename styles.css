@@ -13,9 +13,9 @@ a {
 }
 
 h1 {
-  color: var(--platinum);
+  /* color: var(--platinum); */
   font-size: 3rem;
-  text-align: center;
+  /* text-align: center; */
 }
 
 body {
@@ -33,7 +33,7 @@ body {
     height:100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
     margin: 10%;
 }
 .content{
