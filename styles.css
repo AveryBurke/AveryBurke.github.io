@@ -13,6 +13,7 @@ a {
 }
 
 h1 {
+  color: var(--platinum);
   font-size: 3rem;
   text-align: center;
 }
@@ -33,12 +34,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 10%;
 }
 .content{
   height:100%;
-  text-align: justify;
+  /* text-align: justify; */
   width: 30.33%;
   letter-spacing: .025rem;
   line-height: 1.25rem;
-  margin: 0 auto;
 }
