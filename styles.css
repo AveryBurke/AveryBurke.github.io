@@ -10,16 +10,11 @@
 
 a {
   text-decoration: none;
-  font-size: 14px;
   transition: linear 150ms;
   color:var(--dun)
 }
 a:hover {
   color: var(--flame);
-}
-
-h1 {
-  font-size: 3rem;
 }
 
 body {
@@ -34,6 +29,7 @@ body {
     color: var(--dun);
     letter-spacing: -.025rem;
     line-height: 1.5rem;
+    font-size: 3.05rem;
 }
 .container{
     width:100%;
