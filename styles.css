@@ -10,7 +10,7 @@
 
 a {
   text-decoration: none;
-  font-size: 3rem;
+  font-size: 14px;
   transition: linear 150ms;
   color:var(--dun)
 }
@@ -40,7 +40,7 @@ body {
     height:100%;
     display: flex;
     flex-direction: column;
-    margin: 10%;
+    margin: 15% 0 0 10%;
 }
 .content{
   height:100%;
