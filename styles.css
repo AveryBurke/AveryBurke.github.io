@@ -9,13 +9,16 @@
 }
 
 a {
-  color: var(--flame);
+  text-decoration: none;
+  font-size: 2rem;
+  transition: linear 150ms;
+}
+a:hover {
+  color: var(--flame) ;
 }
 
 h1 {
-  /* color: var(--platinum); */
   font-size: 3rem;
-  /* text-align: center; */
 }
 
 body {
