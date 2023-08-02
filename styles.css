@@ -51,6 +51,6 @@ body {
   line-height: 1rem;
   font-size: .75rem;
 }
-.explainer > a{
+.explainer.a{
   color: var(--cambridge-blue);
 }
