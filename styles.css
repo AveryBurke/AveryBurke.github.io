@@ -50,7 +50,8 @@ body {
   width: 100%;
   line-height: 1rem;
   font-size: .75rem;
+  text-align: justify;
 }
-.explainer.a{
+.explainer > a{
   color: var(--cambridge-blue);
 }
