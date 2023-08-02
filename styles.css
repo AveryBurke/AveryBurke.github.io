@@ -10,7 +10,7 @@
 
 a {
   text-decoration: none;
-  transition: linear 150ms;
+  transition: linear 200ms;
   color:var(--dun)
 }
 a:hover {
@@ -28,7 +28,7 @@ body {
     background: var(--indigo-dye);
     color: var(--dun);
     letter-spacing: -.025rem;
-    line-height: .15rem;
+    line-height: .05rem;
     font-size: 3.05rem;
 }
 .title {
