@@ -50,11 +50,13 @@ a:hover {
 .content{
   height:100%;
   width: 30.33%;
+  overflow-y: scroll;
 }
 .explainer{
   width: 100%;
   line-height: 1rem;
   font-size: .75rem;
+  word-spacing: .01rem;
   text-align: justify;
 }
 .explainer a{
