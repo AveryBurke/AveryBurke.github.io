@@ -57,6 +57,7 @@ a:hover {
   line-height: 1rem;
   font-size: .75rem;
   letter-spacing: .01rem;
+  padding-right: 1rem;
   text-align: justify;
 }
 .explainer a{
