@@ -51,6 +51,7 @@ a:hover {
   height:100%;
   width: 30.33%;
   overflow-y: scroll;
+  margin: 1rem 1rem 0 0;
 }
 .explainer{
   width: 100%;
